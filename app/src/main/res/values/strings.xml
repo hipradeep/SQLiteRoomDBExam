@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteExam</string>
+    <string-array name="type_list">
+        <item name="item1">Type 1</item>
+        <item name="item2">Type 2</item>
+        <item name="item3">Type 3</item>
+
+    </string-array>
+</resources>
